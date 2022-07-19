@@ -1,5 +1,5 @@
 # belajar-git
 ini adalah percobaan dari git local ke github
 
-##date
+## date changes
 190722 15:55
